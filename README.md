@@ -1,6 +1,6 @@
 ### Gopher 🇻🇳😴
 
-🥲 FOLLOW MY BLOG [HERE](https://barrydevp.netlify.app/)
+🥲 FOLLOW MY BLOG [HERE](https://barrydevp.me/)
 
 [![barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=barrydevp&count_private=true&show_icons=true)](https://github.com/barrydevp)
 
